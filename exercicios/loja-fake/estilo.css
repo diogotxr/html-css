@@ -1,0 +1,29 @@
+
+div {
+    background-color: blue;
+    height: 400px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.teste2{
+   width: 80px;
+    height: 25px;
+   background-color: green;
+}
+teste2:hover {
+    background-color: yellow;
+
+}
+
+a {
+    text-decoration: none;
+   color: rgb(204, 31, 31);
+   border: 2px solid black;
+   font-size: 30px
+   ;
+   background-color: rgb(43, 207, 11);
+   height: 20px;
+   margin: 60px;
+   
+}

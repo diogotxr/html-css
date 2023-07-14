@@ -1,0 +1,24 @@
+h1 {
+    height: 300px;
+    width: 300px;
+    
+    border: 2px black solid;
+   margin: 20px;
+   padding: 10px;
+    
+
+    
+}
+
+
+
+a {
+    background-color: brown;
+    text-decoration: none;
+    border: 2px solid;
+    padding-top: 8px;
+}
+
+
+
+
